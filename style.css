@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 160px;
+    width: 160px;
+    border-radius: 10%;
+    box-shadow: 4px 4px 20px black;
+    margin: 1.5rem ;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btn-container {
+   
+    display: flex;
+    justify-content: center;
+    background-color: #dcdcdc;
+    border: 2px solid black;
+    margin: 0 350px 0 350px;
+    border-radius: 2%;
+  
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: rgb(17, 244, 17);
+}
+
+.blue {
+    background-color: rgb(0, 96, 240);
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: black;
+}
